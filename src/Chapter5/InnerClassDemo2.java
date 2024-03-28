@@ -1,3 +1,5 @@
+package Chapter5;
+
 public class InnerClassDemo2 {
     public static void main(String[] args) {
         new Outer2().fun(30);//调用外部类方法

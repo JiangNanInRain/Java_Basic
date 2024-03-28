@@ -1,3 +1,5 @@
+package Chapter5;
+
 public class String_test {
     public static void main(String[] args) {
         String str1 = "hello";

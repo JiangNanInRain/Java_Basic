@@ -1,3 +1,4 @@
+package Chapter5;
 
 class LinkList{
     class Node{//节点定义成内部类

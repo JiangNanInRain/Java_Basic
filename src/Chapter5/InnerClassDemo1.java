@@ -1,4 +1,4 @@
-import sun.java2d.pipe.OutlineTextRenderer;
+package Chapter5;
 
 public class InnerClassDemo1 {
 
