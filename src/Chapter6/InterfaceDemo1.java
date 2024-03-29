@@ -3,17 +3,17 @@ package Chapter6;
 
 import java.util.List;
 
-interface A{
+interface AA{
     String AUTHOR = "JNInRain";
     void print();
     String getInfo();
 }
 
-interface B{
+interface BB{
     void say();
 
 }
-class X implements A,B{
+class X implements AA,BB{
     public void say(){
         System.out.println("ysqd!");
     }
