@@ -13,6 +13,7 @@ public class DefaultException {
             throw new MyException("自定义异常");
         }catch (Exception e){
             System.out.println(e);
+            //
         }
     }
 }
