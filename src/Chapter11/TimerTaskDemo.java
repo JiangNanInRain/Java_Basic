@@ -17,6 +17,7 @@ class  MyTask extends TimerTask {
 
 }
 public class TimerTaskDemo {
+
     public static void main(String[] args) {
         Timer t = new Timer();  //创建一个Timer对象
         MyTask myTask = new MyTask(); //创建一个任务类，重写了Runnalbe中的run()方法，里面是线程要执行的任务
